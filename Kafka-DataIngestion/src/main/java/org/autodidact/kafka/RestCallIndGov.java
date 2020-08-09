@@ -11,7 +11,7 @@ public class RestCallIndGov {
 
 	public String callRestService() throws Exception {
 		
-		String URL = "";
+		String URL = "mail me @ ashutosh.ypr@gmail.com for url help";
 		HttpConnectionManager connectionManager = new MultiThreadedHttpConnectionManager();
 		HttpClient httpClient = new HttpClient(connectionManager);
 		
